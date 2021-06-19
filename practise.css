@@ -1,0 +1,14 @@
+.wrapper {
+  border: black 1px solid;
+  height: 100vh;
+  padding: 5vh;
+}
+
+.navbar {
+  border: black 1px solid;
+  border-radius: 5vh;
+  height: 20vh;
+  background-image: url("https://i.pinimg.com/originals/a1/6f/65/a16f65d0d26d305b1625e2cbc2a1181f.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
