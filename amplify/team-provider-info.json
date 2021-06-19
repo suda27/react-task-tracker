@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifycognitolearn-dev-190010-authRole",
+      "UnauthRoleArn": "arn:aws:iam::699730620999:role/amplify-amplifycognitolearn-dev-190010-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::699730620999:role/amplify-amplifycognitolearn-dev-190010-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifycognitolearn-dev-190010-deployment",
+      "UnauthRoleName": "amplify-amplifycognitolearn-dev-190010-unauthRole",
+      "StackName": "amplify-amplifycognitolearn-dev-190010",
+      "StackId": "arn:aws:cloudformation:us-east-1:699730620999:stack/amplify-amplifycognitolearn-dev-190010/7b9da1c0-d102-11eb-86c0-0a3071d8b5ff",
+      "AmplifyAppId": "d21y884xmx2csw"
+    },
+    "categories": {
+      "auth": {
+        "amplifycognitolearne730445e": {}
+      }
+    }
+  }
+}
